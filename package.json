@@ -1,0 +1,25 @@
+{
+  "name": "get-explicit-type",
+  "version": "1.0.0",
+  "description": "Returns object constructor name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KROT47/get-explicit-type.git"
+  },
+  "keywords": [
+    "type",
+    "get-type",
+    "typeof",
+    "type-of"
+  ],
+  "author": "KROT47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KROT47/get-explicit-type/issues"
+  },
+  "homepage": "https://github.com/KROT47/get-explicit-type#readme"
+}
