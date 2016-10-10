@@ -1,4 +1,4 @@
-# ObjTransmute
+# GetExplicitType
 
 Returns any variable explicit type, taken from its constructor name:  
 { Array | Arguments | Object | Function | RegExp | Number | String | Symbol | Promise }
